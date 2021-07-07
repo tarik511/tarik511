@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarik511
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Lua, JavaScript
 - 💞️ I’m looking to collaborate on various different projects
 - 📫 How to reach me ... send me a message on GitHub
 
